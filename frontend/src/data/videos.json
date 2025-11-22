@@ -1,0 +1,28 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Original Composition - Ethereal Dreams",
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "A mesmerizing original composition blending electronic and classical elements. Watch the creative process unfold as I build layers of sound."
+    },
+    {
+      "id": 2,
+      "title": "Live Performance - Jazz Improvisation",
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Spontaneous jazz improvisation captured during a live performance. A raw and authentic showcase of musical expression."
+    },
+    {
+      "id": 3,
+      "title": "Production Tutorial - Creating Ambient Music",
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Learn the techniques I use to create atmospheric, ambient soundscapes. Perfect for aspiring producers and music enthusiasts."
+    },
+    {
+      "id": 4,
+      "title": "Music Video - Latest Single",
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "The official music video for my latest single. A visual journey complementing the sonic landscape of the track."
+    }
+  ]
+}

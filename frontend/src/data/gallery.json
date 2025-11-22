@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "src": "https://images.unsplash.com/photo-1498038432885-27a88322920b?w=800&h=600&fit=crop",
+      "title": "Studio Session",
+      "description": "Recording session capturing the creative process in the studio."
+    },
+    {
+      "id": 2,
+      "src": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800&h=600&fit=crop",
+      "title": "Live Performance",
+      "description": "An electrifying moment from a live concert performance."
+    },
+    {
+      "id": 3,
+      "src": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800&h=600&fit=crop",
+      "title": "Collaboration",
+      "description": "Working with fellow musicians on an exciting new project."
+    },
+    {
+      "id": 4,
+      "src": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800&h=600&fit=crop",
+      "title": "Equipment Setup",
+      "description": "Professional audio production equipment and instruments."
+    },
+    {
+      "id": 5,
+      "src": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&h=600&fit=crop",
+      "title": "Concert Shot",
+      "description": "Performing at an intimate venue with an engaged audience."
+    },
+    {
+      "id": 6,
+      "src": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&h=600&fit=crop",
+      "title": "Behind the Scenes",
+      "description": "A candid moment from backstage preparations."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Smooth scrolling for anchor links */
+html {
+  scroll-padding-top: 80px;
+}
+
+/* Container max-width for content sections */
+.container-max {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Desktop expanded padding */
+@media (min-width: 1024px) {
+  .container-max {
+    padding: 0 4rem;
+  }
+}

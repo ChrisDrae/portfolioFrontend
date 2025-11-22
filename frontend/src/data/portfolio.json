@@ -1,0 +1,32 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "title": "dedgrl",
+      "spotifyUrl": "https://open.spotify.com/embed/track/0tXX53jpM83DOBx1kJ8ox4?utm_source=generator",
+      "releaseDate": "2021-09-21",
+      "description": " Horribly real and yet poetic lyrics that did turn out to be fatefully descriptive.  The Lyrics were written by Junius Rogers and the Music by me back when my homestudio consisted of a guitar a focusrite and my surface pro 6. "
+    },
+    {
+      "id": 2,
+      "title": "Digital Horizons",
+      "spotifyUrl": "https://open.spotify.com/embed/track/7qiZfU4dY1lsGroan2-erC?utm_source=generator",
+      "releaseDate": "2023-11-22",
+      "description": "A high-energy electronic piece that explores the intersection of modern production and organic instrumentation. Features dynamic drums, evolving synthesizers, and a powerful bass line."
+    },
+    {
+      "id": 3,
+      "title": "Twilight Reflections",
+      "spotifyUrl": "https://open.spotify.com/embed/track/3AJwUDP919kvQ9QcozQmWE?utm_source=generator",
+      "releaseDate": "2023-09-10",
+      "description": "A contemplative instrumental piece combining string arrangements with contemporary production. Perfect for relaxation and focused work, this composition explores emotional depth through musical storytelling."
+    },
+    {
+      "id": 4,
+      "title": "Neon City (Collaboration)",
+      "spotifyUrl": "https://open.spotify.com/embed/track/4cOdK2wGLETKBW3PvgPWqLv?utm_source=generator",
+      "releaseDate": "2023-07-05",
+      "description": "An exciting collaboration with fellow artists creating a futuristic soundscape. This track combines uplifting melodies, driving beats, and creative production techniques that push musical boundaries."
+    }
+  ]
+}
